@@ -12,7 +12,12 @@ hr {
 }
 
 img{
+    border-radius:50%;
+}
+
+img:hover{
     border-radius:11%;
+    transition:120ms;
 }
 
 h1{
